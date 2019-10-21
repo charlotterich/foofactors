@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Charlotte",
            family = "Rich",
            role = c("aut", "cre"),
-           email = "c.rich@example.com"
+           email = "c.rich@example.com")
 Description: Factors have driven people to extreme measures, like ordering
     custom conference ribbons and laptop stickers to express how HELLNO we
     feel about stringsAsFactors. And yet, sometimes you need them. Can they
@@ -13,3 +13,4 @@ Description: Factors have driven people to extreme measures, like ordering
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
