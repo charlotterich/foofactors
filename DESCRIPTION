@@ -1,15 +1,15 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: Practice Package
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Charlotte",
            family = "Rich",
-           role = c("aut", "cre"),
-           email = "c.rich@example.com")
+           role = c("aut", "cre")
 Description: Factors have driven people to extreme measures, like ordering
     custom conference ribbons and laptop stickers to express how HELLNO we
     feel about stringsAsFactors. And yet, sometimes you need them. Can they
-    be made less maddening? Let's find out.
+    be made less maddening? Let's find out. Taken from tutorial at 
+    https://r-pkgs.org/whole-game.html 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
